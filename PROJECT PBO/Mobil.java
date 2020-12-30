@@ -33,4 +33,9 @@ public class Mobil {
 		this.transmisi = transmisi;
 	}
 
+	public void tampildata()
+	{
+		System.out.println("Mobil dengan Merk : "+getMerk());
+	}
+
 }
