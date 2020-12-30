@@ -40,4 +40,7 @@ public class Mobil {
 		System.out.println("Transmisi Mobil : "+getTransmisi());
 	}
 
+	public void inputdata (String m, String j, String t)
+	{}
+
 }
