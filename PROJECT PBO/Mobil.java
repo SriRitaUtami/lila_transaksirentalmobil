@@ -28,4 +28,9 @@ public class Mobil {
 		this.merk = merk;
 	}
 
+	public void setTransmisi(String transmisi)
+	{
+		this.transmisi = transmisi;
+	}
+
 }
