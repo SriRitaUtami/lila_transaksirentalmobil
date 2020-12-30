@@ -9,5 +9,6 @@ public class Cetak {
         Toyota t = new Toyota();
         t.tampilkantoyota();
 
+        System.out.println("\nMobil Suzuki");
     }
 }
