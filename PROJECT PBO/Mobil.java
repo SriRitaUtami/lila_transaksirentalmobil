@@ -8,4 +8,9 @@ public class Mobil {
 		return merk;
 	}
 
+	public String getTransmisi()
+	{
+		return transmisi;
+	}
+
 }
