@@ -18,4 +18,9 @@ public class Mobil {
 		return jenis;
 	}
 
+	public void setJenis(String jenis)
+	{
+		this.jenis = jenis;
+	}
+
 }
