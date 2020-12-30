@@ -6,6 +6,7 @@ public class Cetak {
         h.tampilkanhonda();
 
         System.out.println("\nMobil Toyota");
+        Toyota t = new Toyota();
 
     }
 }
