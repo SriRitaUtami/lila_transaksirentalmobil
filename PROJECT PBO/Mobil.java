@@ -13,4 +13,9 @@ public class Mobil {
 		return transmisi;
 	}
 
+	public String getJenis()
+	{
+		return jenis;
+	}
+
 }
