@@ -4,6 +4,9 @@ public class Honda extends Mobil{
 
 	bahanbakar="bensin";
 	Mobil m =new Mobil();
+	m.inputdata("Honda CR-V", "CVT", "Automatic");
+		m.tampildata();
+
 	}
 	
 }
