@@ -23,4 +23,9 @@ public class Mobil {
 		this.jenis = jenis;
 	}
 
+	public void setMerk(String merk)
+	{
+		this.merk = merk;
+	}
+
 }
