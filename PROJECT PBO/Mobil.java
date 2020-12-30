@@ -3,4 +3,9 @@ public class Mobil {
 	Private String jenis;
 	Private String transmisi;
 
+	public String getMerk()
+	{
+		return merk;
+	}
+
 }
