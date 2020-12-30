@@ -36,6 +36,7 @@ public class Mobil {
 	public void tampildata()
 	{
 		System.out.println("Mobil dengan Merk : "+getMerk());
+		System.out.println("Jenis Mobil : "+getJenis());
 	}
 
 }
