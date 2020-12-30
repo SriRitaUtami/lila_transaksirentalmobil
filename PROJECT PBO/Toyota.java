@@ -5,3 +5,4 @@ public class Toyota extends Mobil{
 		BahanBakar = 'Pertamax';
 		Mobil m = new Mobil();
 		m.inputdata('Innova','CVT','Manual');
+		m.tampildata();
