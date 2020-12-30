@@ -6,3 +6,7 @@ public class Toyota extends Mobil{
 		Mobil m = new Mobil();
 		m.inputdata('Innova','CVT','Manual');
 		m.tampildata();
+
+		System.out.println("jenis bahan bakar : "+BahanBakar)
+	}
+}
