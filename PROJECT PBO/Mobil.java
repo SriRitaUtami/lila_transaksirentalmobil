@@ -43,7 +43,9 @@ public class Mobil {
 	public void inputdata (String m, String j, String t)
 	{
 		setMerk(m);
-		
+		setJenis(j);
+		setTransmisi(t);
+
 	}
 
 }
