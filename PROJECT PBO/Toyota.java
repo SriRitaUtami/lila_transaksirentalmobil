@@ -3,3 +3,4 @@ public class Toyota extends Mobil{
 		String BahanBakar;
 
 		BahanBakar = 'Pertamax';
+		Mobil m = new Mobil();
