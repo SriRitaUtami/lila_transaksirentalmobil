@@ -5,5 +5,7 @@ public class Cetak {
         Honda h = new Honda();
         h.tampilkanhonda();
 
+        System.out.println("\nMobil Toyota");
+
     }
 }
