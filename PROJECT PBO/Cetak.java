@@ -7,10 +7,10 @@ public class Cetak {
 
         System.out.println("\nMobil Toyota");
         Toyota t = new Toyota();
-        t.tampilkantoyota();
+        t.tampilkanToyota();
 
         System.out.println("\nMobil Suzuki");
         Suzuki s = new Suzuki();
-        z.tampilkansuzuki();
+        s.tampilkansuzuki();
     }
 }
