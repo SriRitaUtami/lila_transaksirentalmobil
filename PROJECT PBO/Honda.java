@@ -7,7 +7,7 @@ public class Honda extends Mobil{
 
 	m.inputdata("Honda CR-V", "CVT", "Automatic");
 	m.tampildata();
-	System.out.println("Bahan Bakar : "+bahanbakar);
+	System.out.println("Jenis bahan bakar : "+bahanbakar);
 
 	}
 	

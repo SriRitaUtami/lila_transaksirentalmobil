@@ -38,8 +38,8 @@ public class Mobil {
 		{
 		
 			System.out.println("Mobil dengan Merk : "+getMerk());
-			System.out.println("Jenis Mobil : "+getJenis());
-			System.out.println("Transmisi Mobil : "+getTransmisi());
+			System.out.println("Jenis Mobil       : "+getJenis());
+			System.out.println("Transmisi Mobil   : "+getTransmisi());
 		}
 	
 
